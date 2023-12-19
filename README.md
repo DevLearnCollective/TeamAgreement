@@ -10,7 +10,7 @@ This will be used as the guideline for how our team will collaborate.
 
 * **Trevor Ingram**
   * Has an eye for design.
-  * determined learner.
+  * Determined learner.
   * Communicates effectively.
   * Problem solving skills.
   * Project Management Skills.
